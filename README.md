@@ -1,6 +1,7 @@
 # Po_Translator Free
 
 Desktop application for translating and managing GNU gettext PO files with multi-service integration. 
+support platforms: Windows
 
 Key Features:
 
