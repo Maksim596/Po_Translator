@@ -13,7 +13,11 @@ Key Features:
 PRO version with API(more than 25 MB): 
 
 drive.google.com/file/d/1YN3U7ouOaJPTLjDazSvD2yUYGHguHbRi/view?usp=sharing
+![Снимок экрана (25)](https://github.com/user-attachments/assets/27b9a9d3-8841-42be-9f95-9af3c1858495)
 
 
 Donate:
 patreon.com/user?u=63472924
+
+lite Version:
+![Снимок экрана (22)](https://github.com/user-attachments/assets/b16f53b2-f0ff-43bc-836f-06ea282e521f)
